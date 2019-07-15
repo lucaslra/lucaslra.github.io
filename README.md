@@ -1,2 +1,3 @@
-# lucaslra.github.io
-Portfolio to be setup
+# Lucas Araujo - Azure Coder (http://azurecoder.dev)
+
+:)
